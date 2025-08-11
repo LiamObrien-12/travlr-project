@@ -1,0 +1,35 @@
+export const trips = [
+  {
+    tripID: 1,
+    code: "GALE-001",
+    name: "Gale Reef",
+    length: "4 days",
+    start: "2024-06-15",
+    resort: "Gale Resort",
+    perPerson: "$2,400",
+    image: "images/reef1.jpg",
+    description: "Gale Reef - Sed et augue lorem. In sit amet placerat arcu. Mauris volutpat ipsum ac justo mollis vel vestibulum orci gravida. Vestibulum sit amet porttitor odio. Nulla facilisi. Fusce at pretium felis. Sed consequat libero ut turpis venenatis ut aliquam risus semper. Etiam convallis mi vel risus pretium sodales. Etiam nunc lorem ullamcorper vitae laoreet."
+  },
+  {
+    tripID: 2,
+    code: "DAWS-002",
+    name: "Dawson's Reef",
+    length: "6 days",
+    start: "2024-07-20",
+    resort: "Dawson Resort",
+    perPerson: "$3,200",
+    image: "images/reef2.jpg",
+    description: "Dawson's Reef - Integer magna leo, posuere et dignissim vitae, porttitor at odio. Pellentesque a metus nec magna placerat volutpat. Nunc nisi mi, elementum sit amet aliquet quis, tristique quis nisl. Curabitur odio lacus, blandit ut hendrerit vulputate, vulputate at est. Morbi aliquet viverra metus eu consectetur. In lorem dui, elementum sit amet convallis ac, tincidunt vel sapien."
+  },
+  {
+    tripID: 3,
+    code: "CLAI-003",
+    name: "Claire's Reef",
+    length: "5 days",
+    start: "2024-08-10",
+    resort: "Claire Resort",
+    perPerson: "$2,800",
+    image: "images/reef3.jpg",
+    description: "Claire's Reef - Donec sed felis risus. Nulla facilisi. Donec a orci tellus, et auctor odio. Fusce ac orci nibh, quis semper arcu. Cras orci neque, euismod et accumsan ac, sagittis molestie lorem. Proin odio sapien, elementum at tempor non. Vulputate eget libero. In hac habitasse platea dictumst. Integer purus justo, egestas eu consectetur eu, cursus in tortor. Quisque nec nunc ac mi ultrices iaculis."
+  }
+];
